@@ -1,6 +1,5 @@
 body {
     background-color: black;
     color: whitesmoke;
-
-    font-family: "Playfair Display", sans-serif;
+     font-family:"Playwrite MX Guides",sans-serif;
 }
